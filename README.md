@@ -3,4 +3,4 @@ This is a prototype of an upcoming 3d audio visualizer project, which is made wi
 
 Note : Import minim library before running the application in Processing Idle
 
-![](Screenshot (372).png)
+![](Screenshot%20(372).png)
